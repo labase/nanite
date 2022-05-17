@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# image
+*.png
+*.xcf
+
 # Distribution / packaging
 .Python
 build/
@@ -109,6 +113,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Idea project settings
+.idea/*
 
 # Spyder project settings
 .spyderproject
