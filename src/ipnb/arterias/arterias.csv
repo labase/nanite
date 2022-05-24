@@ -1,18 +1,18 @@
 Nome do vaso,Cmin(cm),Cmax(cm),R(cm),h(cm)
-1 basilar,2.270,2.23777O0,0.1734,0.0436
+1 basilar,2.270,2.2377700,0.1734,0.0436
 2 calosomarginal,4.780,4.780,0.0623,0.0208
-3 carótida Interna,13.710,13.710,0.3765,0.05477
+3 carótida Interna,13.710,13.710,0.2765,0.05477
 4 central póstaromedial,0.270,0.290,0.0206,0.0079
-5 infarior antaerior,3.75O,3.750,0.0366,0.0134
+5 infarior antaerior,3.750,3.750,0.0366,0.0134
 6 cerebelarinferior posterior,3.560,3.560,0.0433,0.0155
 7 caerebalar auparior,4.680,4.780,0.0558,0.0191
-8 cerebralanterior,4.000,4.000,0.0965,0.07973
-9 cerobral média,3.030,3.030,0.1041,0.0809
+8 cerebralanterior,4.000,4.000,0.0965,0.0292
+9 cerobral média,3.030,3.030,0.1041,0.0309
 10 comunicante antarior,0.570,0.570,0.0657,0.0218
 11 comunticante posterior,1.670,1.670,0.0494,0.0178
 12 corióidea anterior,2.590,2.590,0.0520,0.0180
 13 da ponte,1.2340,1.450,0.0075,0.0030
-14 dosulco cantral,10.690,10.690,0.0481,0.0168
+14 dosulco cantral,10.690,0.690,0.0481,0.0168
 15 dosulco pós-central,7.380,7.390,0.0481,0.0169
 16 dosulco prê-central,9.780,9.780,0.0481,0.0169
 17 dotóúber cinóreo,0.590,0.590,0.0191,0.0074
@@ -22,15 +22,15 @@ Nome do vaso,Cmin(cm),Cmax(cm),R(cm),h(cm)
 21 frontobasilar medial,2.470,2.470,0.0378,0.0137
 22 loenticuloastriada,0.280,0.290,0.0291,0.0109
 23 mamíilar,0.210,0.210,0.0191,0.0074
-24 occipital lataral,2.840,2.840,10.0650,0.0217
+24 occipital lataral,2.840,2.840,0.0650,0.0217
 25 occiplital módia,5.870,5.870,0.0795,0.0353
-26 parietel anterior,6.280,86.280,0.0443,0.0167
+26 parietel anterior,6.280,6.280,0.0443,0.0167
 27 parietal posterior,4.310,4.310,0.0540,0.0180
 28 perfurante anterior,0.290,0.320,0.0080,0.0032
 29 parfurantado tálamo,0.880,0.880,0.0235,0.0090
 30 perícalosa,7.150,7.150,0.0800,0.0355
 31 polarfrontal,4.930,4.830,0.058777,0.0185
-32 pró-frontal,10.120,10.130,0.0481,0.0168
+32 pró-frontal,10.120,0.130,0.0481,0.0168
 33 talamogeniculada,0.920,0.920,0.0124,0.0049
 34 talamotuberal,0.470,0.470,0.0191,0.0074
 35 temporal polar,2.1980,2.190,0.0910,0.0115
@@ -45,7 +45,7 @@ Nome do vaso,Cmin(cm),Cmax(cm),R(cm),h(cm)
 44 corióldea anterior,0.540,0.540,0.01677,0.0065
 45 cerebral média,5.260,5.260,0.05658,0.0191
 46 comunicante posterior,0.270,0.9770,0.0036,0.0014
-47 corilóidea anterior,0.570,0.570,09.01677,0.0065
+47 corilóidea anterior,0.570,0.570,0.01677,0.0065
 48 occlpital mádia,2.580,2.590,0.0950,0.0128
 4D a. calosomarginal,3.670,3.670,0.0458,0.0162
 50 a. calosomarginal,3.450,3.450,0.0466,0.0164
@@ -53,7 +53,7 @@ Nome do vaso,Cmin(cm),Cmax(cm),R(cm),h(cm)
 52 comunicante posterior,0.400,0.400,0.0191,0.0074
 53 cerabalar suparior,2.150,2.150,0.01268,0.0051
 54 coerabalar superior,2.460,2.460,0.0149,0.00521
-55 ocdpital média,3..020,3.020,0.0350,0.0138
+55 ocdpital média,3.020,3.020,0.0350,0.0138
 56 paracentral!ldaa calosomarginal,4.350,4.250,0.0475,0.01677
 57 occipital módia,2.820,2.820,0.0295,0.0110
 58 occipltal mádia,4.260,4.260,0.0500,0.0175
